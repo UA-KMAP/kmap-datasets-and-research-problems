@@ -39,3 +39,7 @@ finally, the researcher database can be found in `researcher-data.csv` file.
 
 # Leaderboard
 coming soon!
+
+
+# Contact 
+Please contact us at kmap@list.arizona.edu to get the data.

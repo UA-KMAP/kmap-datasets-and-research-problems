@@ -27,6 +27,8 @@ Average degree:   7.8792
 
 
 # Load of the network
+
+
 The dot file `UArizona_Collaboration_Network.dot` can be loaded as a networkx graph using the following code. 
 
 ```python
@@ -78,3 +80,7 @@ publication=df.loc['publications']['data']
 
 # Leaderboard
 coming soon!
+
+
+# Contact 
+Please contact us at kmap@list.arizona.edu to get the data.
